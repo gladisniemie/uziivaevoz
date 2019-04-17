@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fainochahk.bookdome.com/sitemap.xml
